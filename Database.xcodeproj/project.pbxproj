@@ -13,6 +13,7 @@
 		1F445E3B1AAA325500EABB0C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F445E3A1AAA325500EABB0C /* Images.xcassets */; };
 		1F445E3E1AAA325500EABB0C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F445E3C1AAA325500EABB0C /* LaunchScreen.xib */; };
 		1F445E4A1AAA325500EABB0C /* DatabaseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F445E491AAA325500EABB0C /* DatabaseTests.swift */; };
+		1F445E541AAA33AA00EABB0C /* additionInfoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F445E531AAA33AA00EABB0C /* additionInfoCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		1F445E431AAA325500EABB0C /* DatabaseTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DatabaseTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F445E481AAA325500EABB0C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F445E491AAA325500EABB0C /* DatabaseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatabaseTests.swift; sourceTree = "<group>"; };
+		1F445E531AAA33AA00EABB0C /* additionInfoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = additionInfoCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				1F445E331AAA325500EABB0C /* AppDelegate.swift */,
 				1F445E351AAA325500EABB0C /* ViewController.swift */,
 				1F445E371AAA325500EABB0C /* Main.storyboard */,
+				1F445E531AAA33AA00EABB0C /* additionInfoCell.swift */,
 				1F445E3A1AAA325500EABB0C /* Images.xcassets */,
 				1F445E3C1AAA325500EABB0C /* LaunchScreen.xib */,
 				1F445E311AAA325400EABB0C /* Supporting Files */,
@@ -214,6 +217,7 @@
 			files = (
 				1F445E361AAA325500EABB0C /* ViewController.swift in Sources */,
 				1F445E341AAA325500EABB0C /* AppDelegate.swift in Sources */,
+				1F445E541AAA33AA00EABB0C /* additionInfoCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
